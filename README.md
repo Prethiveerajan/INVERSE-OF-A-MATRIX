@@ -22,6 +22,9 @@ print(sol)
 ````
 
 ## Output:
+
+![inverse](https://user-images.githubusercontent.com/94233064/143689911-7435a1a7-bba2-4e85-8d34-3316c6a0ac45.png)
+
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
 
